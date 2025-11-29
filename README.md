@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Year-2025-red)
 ![Static Badge](https://img.shields.io/badge/Year-2026-red)
 
-# Public Service Calendar
+# Public Service Calendar (ON/QC)
 
 A calendar of pay days and holidays for federal employees.
 
@@ -57,7 +57,7 @@ https://outlook.live.com/owa/calendar/00000000-0000-0000-0000-000000000000/cc576
 
 ## About
 
-The Public Service Calendar is maintained by @chapb, using a personal Outlook account.
+The Public Service Calendar is maintained by @chapb, using a personal Outlook account. Holidays specific to provinces outside of Ontario and Quebec are not included here.
 
 ### HMTL Fix
 
